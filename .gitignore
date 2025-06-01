@@ -19,7 +19,6 @@ venv.bak/
 *.swo
 
 # Project specific
-law_html/
 vector_output/
 models/
 
